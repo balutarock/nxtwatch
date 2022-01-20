@@ -1,0 +1,19 @@
+.react-player {
+  position: 'absolute';
+  top: 0;
+  left: 0;
+}
+
+.icons {
+  color: #94a3b8;
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+.disLikeH {
+  color: #4f46e5;
+}
+
+.likeH {
+  color: #4f46e5;
+}

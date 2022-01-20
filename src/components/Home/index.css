@@ -1,0 +1,23 @@
+.search-icon {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.darkColor {
+  color: #ffffff;
+}
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 50vh;
+  color: #000000;
+}
+
+.search-button {
+  border-width: 0px;
+  background-color: transparent;
+}
